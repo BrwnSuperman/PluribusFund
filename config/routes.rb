@@ -1,4 +1,6 @@
 PluribusFund::Application.routes.draw do
+  resources :users
+
   resources :subscriptions
   root :to => 'subscriptions#index'
 end
