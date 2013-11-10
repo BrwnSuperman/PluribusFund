@@ -4,7 +4,7 @@
     <data-source source="LOCAL" name="Rails PluribusFund: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="6ac63724-8305-46df-a6cd-da89d629a355">
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:PluribusFund_production</jdbc-url>
-      <user-name>postgres</user-name>
+      <user-name>PluribusFund</user-name>
       <user-password>dfd9dfcfdfc9dfd8dfcfdfde</user-password>
       <libraries>
         <library>
@@ -18,7 +18,7 @@
     <data-source source="LOCAL" name="Rails PluribusFund: test" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="6b22dac5-9155-41ab-8509-47f68532bc87">
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:PluribusFund_test</jdbc-url>
-      <user-name>postgres</user-name>
+      <user-name>PluribusFund</user-name>
       <user-password>dfd9dfcfdfc9dfd8dfcfdfde</user-password>
       <libraries>
         <library>
@@ -32,7 +32,7 @@
     <data-source source="LOCAL" name="Rails PluribusFund: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="8584336d-f790-4b91-bdab-f1eb99f2b6f8">
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:PluribusFund_development</jdbc-url>
-      <user-name>postgres</user-name>
+      <user-name>PluribusFund</user-name>
       <user-password>dfd9dfcfdfc9dfd8dfcfdfde</user-password>
       <libraries>
         <library>

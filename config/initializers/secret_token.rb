@@ -9,4 +9,19 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-PluribusFund::Application.config.secret_key_base = '6e6c78367ad572029e49c45d883dfe834b29b083ca4d5f44967243ce588691b8d14d370c8e7caef73598e784d07d2b229c5d443c1bbaa986cc5a9b8800bdb8cd'
+require 'securerandom'
+
+def secure_token
+  token_file = Rails.root.join('.secret')
+  if File.exist?(token_file)
+    # Use the existing token.
+    File.read(token_file).chomp
+  else
+    # Generate a new token and store it in token_file.
+    token = SecureRandom.hex(64)
+    File.write(token_file, token)
+    token
+  end
+end
+
+PluribusFund::Application.config.secret_key_base = secure_token

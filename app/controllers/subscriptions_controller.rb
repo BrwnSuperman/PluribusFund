@@ -1,5 +1,7 @@
-class SubscriptionsController < ApplicationController
+class SubscriptionsController < ApplicationController::Base
   before_action :set_subscription, only: [:show, :edit, :update, :destroy]
+
+  attr_accessor :id, :email, :created_at, :updated_at
 
   # GET /subscriptions
   # GET /subscriptions.json

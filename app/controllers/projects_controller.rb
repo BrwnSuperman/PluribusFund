@@ -10,6 +10,8 @@ class ProjectsController < ApplicationController
   # GET /projects/1
   # GET /projects/1.json
   def show
+    @project = Project.find(params[:id])
+    @sponsor = User.find(@campaign.user_id)
   end
 
   # GET /projects/new
