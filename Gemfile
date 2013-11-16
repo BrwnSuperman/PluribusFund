@@ -32,7 +32,8 @@ end
 gem 'httparty'
 
 # Use ActiveModel has_secure_password
-gem 'bcrypt-ruby', '~> 3.0.0'
+gem 'bcrypt-ruby', '~> 3.1.2'
+
 gem 'anjlab-bootstrap-rails', :require => 'bootstrap-rails',
     :github => 'anjlab/bootstrap-rails'
 # Use CoffeeScript for .js.coffee assets and views
