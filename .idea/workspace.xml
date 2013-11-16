@@ -2,6 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16606424-972d-4cbe-90c5-19cbb8df4d9f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/bootstrap.min.js" />
+      <change type="DELETED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\javascripts\gmaps4rails\gmaps4rails.base.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\javascripts\gmaps4rails\gmaps4rails.bing.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\javascripts\gmaps4rails\gmaps4rails.googlemaps.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\javascripts\gmaps4rails\gmaps4rails.mapquest.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\javascripts\gmaps4rails\gmaps4rails.openlayers.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\javascripts\theme.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\stylesheets\gmaps4rails.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PluribusFund.iml" afterPath="$PROJECT_DIR$/.idea/PluribusFund.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -9,7 +26,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/database.yml" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1383767586490" ignored="false" />
     <file path="/routes.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384106800765" ignored="false" />
-    <file path="/Dummy.txt" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384620387394" ignored="false" />
+    <file path="/Dummy.txt" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384620648037" ignored="false" />
     <file path="/Gemfile" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384613668972" ignored="false" />
     <file path="/user.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1383866521641" ignored="false" />
     <file path="/project.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1383779467621" ignored="false" />
@@ -44,7 +61,7 @@
     <file path="$PROJECT_DIR$/../betastore/app/controllers/customers_controller.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384291836376" ignored="false" />
     <file path="$PROJECT_DIR$/../Pluribus/config/routes.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384616844711" ignored="false" />
     <file path="/application.css" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384619557227" ignored="false" />
-    <file path="$PROJECT_DIR$/config/environments/production.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384619913993" ignored="false" />
+    <file path="$PROJECT_DIR$/config/environments/production.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384622119293" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,19 +81,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="13" selection-start="680" selection-end="681" vertical-scroll-proportion="0.46437055">
+            <state line="16" column="46" selection-start="448" selection-end="448" vertical-scroll-proportion="-10.88">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tou.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/static_pages/tou.html.erb">
+      <file leaf-file-name="environment.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environment.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="5" column="0" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/theme.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="8" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -85,10 +111,26 @@
       <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="18" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="12" column="34" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/assets/javascripts/bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="34" selection-start="950" selection-end="950" vertical-scroll-proportion="0.35831383">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -96,16 +138,7 @@
       <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="47" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gmaps4rails.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/gmaps4rails.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="14" column="3" selection-start="603" selection-end="603" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -115,6 +148,26 @@
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="36" selection-start="249" selection-end="249" vertical-scroll-proportion="-4.576923">
+              <folding>
+                <marker date="1384617351730" expanded="true" signature="21:2255" placeholder="..." />
+                <marker date="1384617351730" expanded="true" signature="28:1399" placeholder="..." />
+                <marker date="1384617351730" expanded="true" signature="856:1389" placeholder="if ... end" />
+                <marker date="1384617351730" expanded="true" signature="901:1379" placeholder="..." />
+                <marker date="1384617351730" expanded="true" signature="937:1192" placeholder="{...}" />
+                <marker date="1384617351730" expanded="true" signature="988:1040" placeholder="{...}" />
+                <marker date="1384617351730" expanded="true" signature="1423:2247" placeholder="..." />
+                <marker date="1384617351730" expanded="true" signature="1457:1758" placeholder="..." />
+                <marker date="1384617351730" expanded="true" signature="1478:1710" placeholder="{...}" />
+                <marker date="1384617351730" expanded="true" signature="2103:2193" placeholder="do ... end" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-slider.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/index-slider.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -123,7 +176,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="27" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.0">
+            <state line="7" column="13" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -147,8 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/controllers/projects_controller.rb" />
-        <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/app/controllers/password_resets_controller.rb" />
         <option value="$PROJECT_DIR$/app/mailers/contact_form.rb" />
         <option value="$PROJECT_DIR$/app/controllers/subscriptions_controller.rb" />
@@ -158,10 +209,12 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/index.css.scss" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.scss" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/theme.js" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
       </list>
     </option>
@@ -220,6 +273,50 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PluribusFund" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PluribusFund" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PluribusFund" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PluribusFund" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PluribusFund" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -422,11 +519,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tanveer\RubymineProjects\PluribusFund\vendor\assets\javascripts" />
+      <recent name="C:\Users\Tanveer\RubymineProjects\PluribusFund\vendor\assets\stylesheets" />
       <recent name="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\views\static_pages" />
       <recent name="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\stylesheets" />
       <recent name="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\images" />
-      <recent name="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\javascripts" />
-      <recent name="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\views" />
     </key>
   </component>
   <component name="RunManager" selected="Ruby.secret_token">
@@ -702,7 +799,11 @@
       <created>1384620389761</created>
       <updated>1384620389761</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Bootstrap directory">
+      <created>1384620650600</created>
+      <updated>1384620650600</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -791,7 +892,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="More static pages and edited routes. Troubleshooting Bootstrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bootstrap directory" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -807,18 +908,12 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Created Users and Users Database" />
     <MESSAGE value="More static pages and edited routes. Troubleshooting Bootstrap" />
+    <MESSAGE value="Bootstrap directory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20131106194911_create_subscriptions.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -857,50 +952,95 @@
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/tou.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1383690614518" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1383690614518" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1383690614518" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1383690614518" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1383690614518" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1383690614518" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1383690614518" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="36" selection-start="249" selection-end="249" vertical-scroll-proportion="-4.576923">
+          <folding>
+            <marker date="1384617351730" expanded="true" signature="21:2255" placeholder="..." />
+            <marker date="1384617351730" expanded="true" signature="28:1399" placeholder="..." />
+            <marker date="1384617351730" expanded="true" signature="856:1389" placeholder="if ... end" />
+            <marker date="1384617351730" expanded="true" signature="901:1379" placeholder="..." />
+            <marker date="1384617351730" expanded="true" signature="937:1192" placeholder="{...}" />
+            <marker date="1384617351730" expanded="true" signature="988:1040" placeholder="{...}" />
+            <marker date="1384617351730" expanded="true" signature="1423:2247" placeholder="..." />
+            <marker date="1384617351730" expanded="true" signature="1457:1758" placeholder="..." />
+            <marker date="1384617351730" expanded="true" signature="1478:1710" placeholder="{...}" />
+            <marker date="1384617351730" expanded="true" signature="2103:2193" placeholder="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="46" selection-start="448" selection-end="448" vertical-scroll-proportion="-10.88">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="8" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="27" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.0">
+        <state line="7" column="13" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/gmaps4rails.css">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/index-slider.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="18" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="47" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0">
+        <state line="14" column="3" selection-start="603" selection-end="603" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="13" selection-start="680" selection-end="681" vertical-scroll-proportion="0.46437055">
+        <state line="12" column="34" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/assets/javascripts/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="34" selection-start="950" selection-end="950" vertical-scroll-proportion="0.35831383">
           <folding />
         </state>
       </provider>
