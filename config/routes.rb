@@ -1,4 +1,5 @@
 PluribusFund::Application.routes.draw do
+  get "log_ins/create"
   get "static_pages/home"
   get "static_pages/help"
   get "/about" => 'static_pages#about', as: 'about'
@@ -10,6 +11,14 @@ PluribusFund::Application.routes.draw do
   resources :subscriptions
   root :to => 'static_pages#home'
   post '/about', to: 'static_pages#about'
+
+  post '/raise', to: 'static_pages#raisefunds'
+  post '/tou',  to: 'static_pages#tou'
+  post '/privacy',  to: 'static_pages#privacy'
+  post '/campaigntest', to: 'static_pages#campaigntest'
+  post '/contact_email', :to => 'static_pages#sendmail'
+  post '/contact', :to => 'static_pages#contact'
+  post '/dashboard', :to => 'static_pages#dashboard'
 end
 
 # The priority is based upon order of creation: first created -> highest priority.
