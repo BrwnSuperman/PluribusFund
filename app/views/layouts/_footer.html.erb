@@ -1,60 +1,70 @@
 <footer id="footer">
-    <div class="container">
-        <div class="row sections">
-            <div class="span4 recent_posts">
-                <h3 class="footer_header">
-                    Quick Links
-                </h3>
-                <div class="post" style="margin-left: 25px;">
-                    <%= link_to('About', about_path, :class => "title") %>
-                    <a href="../campaigntest" class="title">Example Campaign</a>
-                    <a href="privacy" class="title">Privacy Policy</a>
-                    <a href="../raise" class="title">Raise Funds</a>
-                    <a href="tou" class="title">Terms of Use</a>
-                </div>
-            </div>
-            <div class="span4 contact">
-                <h3 class="footer_header" style="text-align: center;">
-                    Join Our Mailing List
-                </h3>
-            </div>
-            <div class="span4 testimonials">
-                <h3 class="footer_header">
-                    Social Media
-                </h3>
-                <div class="wrapper">
-                    <div class="fb-like" data-href="http://www.pluribusfund.com/" data-send="true" data-width="300" data-show-faces="true" data-font="arial" data-colorscheme="dark"></div>
-                    <a href="https://twitter.com/pluribusfund" class="twitter-follow-button" data-show-count="false">Follow @pluribusfund</a>
-                </div>
-            </div>
+  <div class="container">
+    <div class="row sections">
+      <div class="span4 recent_posts">
+        <h3 class="footer_header">
+          Quick Links
+        </h3>
+        <div class="post" style="margin-left: 25px;">
+          <%= link_to('About', about_path, :class => "title") %>
+          <%= link_to('Contact', contact_path, :class => "title") %>
+          <a href="../campaigntest" class="title">Example Campaign</a>
+          <a href="privacy" class="title">Privacy Policy</a>
+          <a href="../raise" class="title">Raise Funds</a>
+          <%= link_to('Sign Up', new_user_registration_path, :class => "title")  %>
+          <a href="tou" class="title">Terms of Use</a>
         </div>
-        
-        <div class="row credits">
-            <div class="span12">
-                <!--
-                <div class="row social">
-                    <div class="span12">
-                        <a href="#" class="facebook">
-                            <span class="socialicons ico1"></span>
-                            <span class="socialicons_h ico1h"></span>
-                        </a>
-                        <a href="#" class="twitter">
-                            <span class="socialicons ico2"></span>
-                            <span class="socialicons_h ico2h"></span>
-                        </a>
-                        <a href="#" class="gplus">
-                            <span class="socialicons ico3"></span>
-                            <span class="socialicons_h ico3h"></span>
-                        </a>
-                    </div>
-                </div> -->
-                <div class="row copyright">
-                    <div class="span12">
-                        © 2013 Pluribus Crowdfunding, LLC
-                    </div>
-                </div>
-            </div>            
+      </div>
+      <div class="span4 contact">
+        <h3 class="footer_header" style="text-align: center;">
+          Join Our Mailing List
+        </h3>
+        <%= form_tag(contact_email_path, :method => 'post') do %>
+            <%= text_field_tag "name", @name, :placeholder => "Your name" %>
+            <%= text_field_tag "email", @email, :placeholder => "Your email" %>
+            <%= text_area_tag "message", @message, :placeholder => "Message", :rows => "3" %>
+            <div class="action">
+              <%= submit_tag "Send" %>
+            </div>
+        <% end %>
+      </div>
+      <div class="span4 testimonials">
+        <h3 class="footer_header">
+          Social Media
+        </h3>
+        <div class="wrapper">
+          <div class="fb-like" data-href="http://www.pluribusfund.com/" data-send="true" data-width="300" data-show-faces="true" data-font="arial" data-colorscheme="dark"></div>
+          <a href="https://twitter.com/pluribusfund" class="twitter-follow-button" data-show-count="false">Follow @pluribusfund</a>
         </div>
+      </div>
     </div>
+
+    <div class="row credits">
+      <div class="span12">
+        <!--
+        <div class="row social">
+            <div class="span12">
+                <a href="#" class="facebook">
+                    <span class="socialicons ico1"></span>
+                    <span class="socialicons_h ico1h"></span>
+                </a>
+                <a href="#" class="twitter">
+                    <span class="socialicons ico2"></span>
+                    <span class="socialicons_h ico2h"></span>
+                </a>
+                <a href="#" class="gplus">
+                    <span class="socialicons ico3"></span>
+                    <span class="socialicons_h ico3h"></span>
+                </a>
+            </div>
+        </div> -->
+        <div class="row copyright">
+          <div class="span12">
+            © 2013 Pluribus Crowdfunding, LLC
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </footer>
 <%= yield :scripts %>

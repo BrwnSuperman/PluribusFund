@@ -10,7 +10,21 @@ PluribusFund::Application.routes.draw do
 
   resources :subscriptions
   root :to => 'static_pages#home'
+
   post '/about', to: 'static_pages#about'
+
+  get '/sign_up' => 'users#new', as: 'sign_up'
+  post '/sign_up' => 'users#create'
+
+  get '/log_in'  => 'log_ins#new', as: 'log_in'
+  post '/log_in'  => 'log_ins#create'
+  post '/log_out' => 'log_ins#destroy', as: 'log_out'
+
+  get '/forgot_password' => 'password_resets#new', as: 'forgot_password'
+  post '/forgot_password' => 'password_resets#create'
+
+  get '/reset_password/:id/:token;' => 'password_resets#edit', as: 'reset_password'
+  post '/reset_password/:id/:token;' => 'password_resets#update'
 
   post '/raise', to: 'static_pages#raisefunds'
   post '/tou',  to: 'static_pages#tou'
