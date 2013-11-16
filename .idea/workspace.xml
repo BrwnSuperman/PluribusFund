@@ -2,42 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16606424-972d-4cbe-90c5-19cbb8df4d9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/password_resets/_form.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/password_resets/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/gmaps4rails/gmaps4rails.base.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/gmaps4rails/gmaps4rails.bing.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/gmaps4rails.css.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/gmaps4rails/gmaps4rails.googlemaps.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/gmaps4rails/gmaps4rails.mapquest.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/gmaps4rails/gmaps4rails.openlayers.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/index.css.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/log_ins/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/password_resets/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/password_resets/index.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/log_ins/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/password_resets/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/password_resets/show.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/password_resets/show.json.jbuilder" />
-      <change type="MOVED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\stylesheets\animate.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/animate.css.scss" />
-      <change type="MOVED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\stylesheets\flexslider.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/flexslider.css.scss" />
-      <change type="MOVED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\stylesheets\theme.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme.css.scss" />
-      <change type="MOVED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\stylesheets\z.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/z.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/projects/edit.html.erb" afterPath="$PROJECT_DIR$/app/views/projects/edit.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/log_ins_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/log_ins_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/new.html.erb" afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/projects/show.html.erb" afterPath="$PROJECT_DIR$/app/views/projects/show.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PluribusFund.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/database.yml" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1383767586490" ignored="false" />
     <file path="/routes.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384623543986" ignored="false" />
-    <file path="/Dummy.txt" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384623921297" ignored="false" />
+    <file path="/Dummy.txt" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384623948614" ignored="false" />
     <file path="/Gemfile" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384613668972" ignored="false" />
     <file path="/user.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1383866521641" ignored="false" />
     <file path="/project.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1383779467621" ignored="false" />
@@ -74,6 +47,7 @@
     <file path="/application.css" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384619557227" ignored="false" />
     <file path="$PROJECT_DIR$/config/environments/production.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384622119293" ignored="false" />
     <file path="$PROJECT_DIR$/../betastore/app/views/customer_mailer/password_reset.text.erb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384623690056" ignored="false" />
+    <file path="/_navbar.html.erb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384638442024" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,24 +67,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="create.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/log_ins/create.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/password_resets/new.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
@@ -156,10 +112,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="2" selection-start="160" selection-end="160" vertical-scroll-proportion="0.060283687">
+            <state line="3" column="2" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_navbar.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_navbar.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="1" selection-start="1533" selection-end="1533" vertical-scroll-proportion="-8.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_footer.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="58" selection-start="566" selection-end="566" vertical-scroll-proportion="0.2527881">
               <folding />
             </state>
           </provider>
@@ -168,7 +142,7 @@
       <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
+            <state line="18" column="8" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -208,8 +182,6 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/views/projects/edit.html.erb" />
         <option value="$PROJECT_DIR$/app/views/projects/show.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/log_ins/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/users/new.html.erb" />
@@ -217,6 +189,8 @@
         <option value="$PROJECT_DIR$/app/controllers/log_ins_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
       </list>
     </option>
   </component>
@@ -426,6 +400,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="static_pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PluribusFund" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PluribusFund" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -866,7 +862,11 @@
       <created>1384622344784</created>
       <updated>1384622344784</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Users passwords and logins">
+      <created>1384623953844</created>
+      <updated>1384623953844</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -979,15 +979,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="21" selection-start="2750" selection-end="2750" vertical-scroll-proportion="-30.538462">
-          <folding>
-            <element signature="e#802#829#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/_shim.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -999,15 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="53" selection-start="902" selection-end="902" vertical-scroll-proportion="-11.115385">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_navbar.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="1" selection-start="689" selection-end="689" vertical-scroll-proportion="-5.6666665">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1041,13 +1023,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="22" selection-start="204" selection-end="204" vertical-scroll-proportion="-6.5384617">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/customer_mailer/password_reset.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="25" selection-start="26" selection-end="26" vertical-scroll-proportion="-0.65384614">
@@ -1076,13 +1051,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/log_ins_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="29" selection-start="135" selection-end="136" vertical-scroll-proportion="-1.0">
@@ -1092,7 +1060,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="2" selection-start="160" selection-end="160" vertical-scroll-proportion="0.060283687">
+        <state line="3" column="2" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="8" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="22" selection-start="204" selection-end="204" vertical-scroll-proportion="-6.5384617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_navbar.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="1" selection-start="1533" selection-end="1533" vertical-scroll-proportion="-8.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="58" selection-start="566" selection-end="566" vertical-scroll-proportion="0.2527881">
           <folding />
         </state>
       </provider>
