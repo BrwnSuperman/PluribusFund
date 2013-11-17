@@ -1,4 +1,6 @@
 PluribusFund::Application.routes.draw do
+  resources :locations
+
   get "log_ins/create"
   get "static_pages/home"
   get "static_pages/help"
@@ -26,13 +28,13 @@ PluribusFund::Application.routes.draw do
   get '/reset_password/:id/:token;' => 'password_resets#edit', as: 'reset_password'
   post '/reset_password/:id/:token;' => 'password_resets#update'
 
-  post '/raise', to: 'static_pages#raisefunds'
-  post '/tou',  to: 'static_pages#tou'
-  post '/privacy',  to: 'static_pages#privacy'
-  post '/campaigntest', to: 'static_pages#campaigntest'
-  post '/contact_email', :to => 'static_pages#sendmail'
-  post '/contact', :to => 'static_pages#contact'
-  post '/dashboard', :to => 'static_pages#dashboard'
+  get '/raise', to: 'static_pages#raisefunds'
+  get '/tou',  to: 'static_pages#tou'
+  get '/privacy',  to: 'static_pages#privacy'
+  get '/campaigntest', to: 'static_pages#campaigntest'
+  get '/contact_email', :to => 'static_pages#sendmail'
+  get '/contact', :to => 'static_pages#contact'
+  get '/dashboard', :to => 'static_pages#dashboard'
 end
 
 # The priority is based upon order of creation: first created -> highest priority.
