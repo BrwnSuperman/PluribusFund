@@ -1,5 +1,4 @@
 class UsersController < ApplicationController
-  skip_before_filter :require_log_in, only: [:new, :create]
 
   # GET /users
   # GET /users.json
@@ -17,24 +16,13 @@ class UsersController < ApplicationController
     @user = User.new
   end
 
-  # GET /users/1/edit
-  def edit
-  end
+  protected
 
-  # POST /users
-  # POST /users.json
-
-  def create
-    @user = User.new(user_params)
-    if @user.save
-      redirect_to log_in_path, notice: 'Your account was created, please log in'
+  def devise_parameter_sanitizer
+    if resource_class == User
+      User::ParameterSanitizer.new(User, :user, params)
     else
-      render 'new'
+      super # Use the default one
     end
-  end
-
-  private
-  def user_params
-    params.require(:user).permit(:name, :email, :password) if params[:user]
   end
 end
