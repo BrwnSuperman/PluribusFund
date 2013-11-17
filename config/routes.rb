@@ -1,32 +1,15 @@
 PluribusFund::Application.routes.draw do
-  resources :locations
 
-  get "log_ins/create"
-  get "static_pages/home"
-  get "static_pages/help"
-  get "/about" => 'static_pages#about', as: 'about'
+  devise_for :admins, :controllers => { :sessions => "admins/sessions" }
+  devise_for :users, :path => "auth", :path_names => { :sign_in => 'login', :sign_out => 'logout', :password => 'secret', :confirmation => 'verification', :unlock => 'unblock', :registration => 'register', :sign_up => 'cmon_let_me_in' }
 
   resources :projects
 
   resources :users
 
   resources :subscriptions
+
   root :to => 'static_pages#home'
-
-  post '/about', to: 'static_pages#about'
-
-  get '/sign_up' => 'users#new', as: 'sign_up'
-  post '/sign_up' => 'users#create'
-
-  get '/log_in'  => 'log_ins#new', as: 'log_in'
-  post '/log_in'  => 'log_ins#create'
-  post '/log_out' => 'log_ins#destroy', as: 'log_out'
-
-  get '/forgot_password' => 'password_resets#new', as: 'forgot_password'
-  post '/forgot_password' => 'password_resets#create'
-
-  get '/reset_password/:id/:token;' => 'password_resets#edit', as: 'reset_password'
-  post '/reset_password/:id/:token;' => 'password_resets#update'
 
   get '/raise', to: 'static_pages#raisefunds'
   get '/tou',  to: 'static_pages#tou'
@@ -35,6 +18,7 @@ PluribusFund::Application.routes.draw do
   get '/contact_email', :to => 'static_pages#sendmail'
   get '/contact', :to => 'static_pages#contact'
   get '/dashboard', :to => 'static_pages#dashboard'
+  post '/about', to: 'static_pages#about'
 end
 
 # The priority is based upon order of creation: first created -> highest priority.

@@ -4,23 +4,12 @@ class ApplicationController < ActionController::Base
 
 
   protected
-  def require_log_in
-    redirect_to '/log_in' unless logged_in?
-  end
 
-  helper_method :logged_in?
-  def logged_in?
-    cookies.signed[:customer_id].present?
-  end
-
-  helper_method :cart_item_count
-  def cart_item_count
-    if session[:cart]
-      session[:cart].values.sum
+  def devise_parameter_sanitizer
+    if resource_class == User
+      User::ParameterSanitizer.new(User, :user, params)
     else
-      0
+      super # Use the default one
     end
   end
-
-  protect_from_forgery with: :exception
 end

@@ -44,6 +44,12 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.6.3)
+    devise (3.2.1)
+      bcrypt-ruby (~> 3.0)
+      orm_adapter (~> 0.1)
+      railties (>= 3.2.6, < 5)
+      thread_safe (~> 0.1)
+      warden (~> 1.2.3)
     erubis (2.7.0)
     execjs (2.0.2)
     hike (1.2.3)
@@ -66,6 +72,7 @@ GEM
     minitest (4.7.5)
     multi_json (1.8.2)
     multi_xml (0.5.5)
+    orm_adapter (0.5.0)
     pg (0.17.0-x86-mingw32)
     polyglot (0.3.3)
     quiet_assets (1.0.2)
@@ -119,6 +126,8 @@ GEM
     uglifier (2.3.1)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
+    warden (1.2.3)
+      rack (>= 1.0)
 
 PLATFORMS
   x86-mingw32
@@ -127,6 +136,7 @@ DEPENDENCIES
   anjlab-bootstrap-rails!
   bcrypt-ruby (~> 3.1.2)
   coffee-rails (~> 4.0.0)
+  devise
   hirb
   httparty
   jbuilder (~> 1.2)
