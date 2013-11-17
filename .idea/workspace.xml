@@ -3,13 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="16606424-972d-4cbe-90c5-19cbb8df4d9f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/z.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/z.css.scss" />
     </list>
     <ignored path="PluribusFund.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/database.yml" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1383767586490" ignored="false" />
     <file path="/routes.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384716293656" ignored="false" />
-    <file path="/Dummy.txt" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384721567557" ignored="false" />
+    <file path="/Dummy.txt" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384721962771" ignored="false" />
     <file path="/Gemfile" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384707415805" ignored="false" />
     <file path="/user.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384707571658" ignored="false" />
     <file path="/project.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1383779467621" ignored="false" />
@@ -141,7 +140,7 @@
       <file leaf-file-name="z.css.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/z.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="124" column="19" selection-start="2480" selection-end="2480" vertical-scroll-proportion="0.49698433">
+            <state line="106" column="83" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.1278649">
               <folding />
             </state>
           </provider>
@@ -898,7 +897,11 @@
       <created>1384721569458</created>
       <updated>1384721569458</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Fixed heading color">
+      <created>1384721964442</created>
+      <updated>1384721964442</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -987,7 +990,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="First attempt at fixing layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed heading color" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1011,6 +1014,7 @@
     <MESSAGE value="Navigation bar working" />
     <MESSAGE value="Twitter public assets" />
     <MESSAGE value="First attempt at fixing layout" />
+    <MESSAGE value="Fixed heading color" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1123,7 +1127,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/z.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="19" selection-start="2480" selection-end="2480" vertical-scroll-proportion="0.49698433">
+        <state line="106" column="83" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.1278649">
           <folding />
         </state>
       </provider>
