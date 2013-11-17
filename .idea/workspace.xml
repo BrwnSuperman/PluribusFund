@@ -2,130 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16606424-972d-4cbe-90c5-19cbb8df4d9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Behance-4c6a582a315d2aa2e1042391430e9240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Blogger-6fbdb5dbf058bbc23f88d8408ff4d674.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Digg-40920d3b52a1a80f18147c25c7e73989.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Dribbble-c5220b078583bc8d668a2bc6220f28c9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Facebook-30440956decda92454ec5543013754bc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Feed-544d4717f7fae1806f33635fc4842852.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Flickr-36ce347d8dee1f8dd7153f517bce3ef7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Forrst-7eab56f785bc967c2a165e8f4e63f051.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Google+-d9c17e5fe60591fe4d6e3765f716dc1b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Gowalla-40bd9b63b0e761daeab4b5e0bf6e02c3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Last.fm-692c7d4463296e4c4156d6a4512b952b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/LinkedIn-f64275f4326c3885712dbeb189e372bf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Myspace-869add7bb2a36a258988274fc205ea4b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/PayPal-da6d7b7b063eb5e1661e10787a813060.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Picasa-0af79c3ed0a7354ff177e3a8b4d429ee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Pinterest-ba430756c6df7012c45a3f7964253dd8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Share-This-1f4e4717f28f3b92ad6fb46b6ea81810.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Skype-f146271e647be73f932c18a4bbf99967.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Stumbleupon-c7416db38e5dcfeac9779317b6de96ad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Tumblr-04cb35a6e6bdebeb702d82a8847bd9d3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Twitter-ce6fcd50f493b9fe2261b3c4198eb78f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Viddlr-f68a4ed52aca38d9a1d5425a1ba3844f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Vimeo-26d55982e65ee7800820f239bbe188e3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Wordpress-1a888b1c76a7696d463901c2a08bb138.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/YouTube-5cb971aea2bac0a80a3c67d8acc3ca0c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/about_slide1-db01d87cce42107adb257c8116099fda.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/ale-6e4436e8c0d0d777a745cb9e12cc932f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-287a13a73aa9566862668a9b4bb079c2.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-e8d2c4c4ecd9cd611340021d35390b7e.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/aqua-a2f9b0f16d76a0a02ce5f9ea99f7c7e1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/aqua_thumb-d60d48489c8598cb6d7987021dc06876.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/arrow-down-e2296f028f93ea6a6a61017afcfb6f9d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/baby-blue-c472708d024e6ebcdd49304a6b1f61d0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/baby_blue_thumb-ef71f694f50046f7e29a6bc79cebfb58.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/badge-361e5ed6ec3aeb698eecc4a24f2849b7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bg_direction_nav-1cf846bc0b0b2ae48267532f52ec0eac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/black-37addc55b2adc7a0f8ad24db7282d2e7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/black_thumb-1b6bd37ed1b733906771f31d61b6cc32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/body_bg-4bf63584c0f6a5ef31b2704837cf0cab.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/camping-c4f90c873f9bf817aabdd0905d19fdd8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/client1-4899b763bffa391263793c2f4ba18425.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/client2-4a18eca5fdb555c55187515aafac275d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/client3-e8d4b04bb4990006f5b6d9e94933e97b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/color-splash-f581cb1f2ace2298aba570c22435fe04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/color_splash_thumb-6ae6ab5cc43f64371c8076cb1d0f444e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/contact_icos-03ebc97b0067c0823f72cbd6ca0dde37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css3-4143b7a4d9b79815cc2c4a0102f83942.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/deep-green-a4d27911377e3c781962e1f61bf4e11e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/deep_green_thumb-eb8760ad953258fc0a0aea557bbce4e7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/design-1220dcc0c99763b840b687c80af5b11f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/develop-81f03b3e0ddf95998729b9706745b93f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/deviantArt-0cc0d6715d2681fefee9800973919fcc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/face-412f42b9d9d23c533564baea2cc870d4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/features-ico1-024faff28d9cb8bce7957bab6efa84a5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/features-ico2-8f71c78b99920a6544c9b2f642b9155d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/features-ico3-0b6fd787ae37f77469c6148451dfd3ff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/features-ico4-568515a1ecd2561120dc7af0461171dd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/features-ico5-f6a8b15f9f63f6d0e10b0e7d60d76806.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/features-ico6-835a6bbec39dea4e28faf686e9b50437.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/features-ico7-c334c7ac22efe3d571247156c77a82df.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flower_thumb-4373526870b0c164435642ab53626b89.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/folio_thumb1-7915dc6aaa54e0549eea2c9d2494e9ca.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/folio_thumb2-0d9f0f7f21b58da30ec787e834e40332.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/formmail-012119baf3f7b07560a966e98f166216.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/formname-5e6d21367fda0a439ec73950ebf87730.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/formphone-83896c71d3559b4b9f3a30d230437b97.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/glyphicons-halflings-c806376f05e4ccabe2c5315a8e95667c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/twitter/glyphicons-halflings-regular-0f4a7be6dc74b926e8120a545f8b96ea.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/twitter/glyphicons-halflings-regular-b8371b58529b77f0818e5d721a7a5624.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/twitter/glyphicons-halflings-regular-cf24e42fad297dbaa33853187ba876e7.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/glyphicons-halflings-white-62b67d9edee3db90d18833087f848d6e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/gplus-96ff2118a44b0daabf2488595b8f7f35.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/html5-12c97634b0525d817b7ed47264316746.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/indigo-98f058591d7591c2ef981dc44ef00a0a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/indigo_thumb-240de0e10f34af1429287feecea9b6a5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/ipad-370e1de8a696a7f7ca4ce5c218e44217.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/iphone-519f2055e07b7b5e52092cd1cb7f2d9a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/leftright-arrows-fac06d2658507d6481987d4abebf9a9e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/local-fa61009dbbb5eb2435552def620ede9b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/logo-c5291c36e9c5066aec0257ac64077476.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/mango_thumb-fa0f00015fb8425d1cd9a0582de4fd2e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/market-e4d6594b7433575f051090e190a0c8d7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/mini-logo-5eabcb2f46b71e71d4f80f08cf63d7ae.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/mint-e355d085283ff582a576d03a9c7f9f2c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/mint_thumb-a77ec543b02e2a4757bc2532dde5405b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/noisy_net-555610c678333a70ca27aadfc5f6d1bb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/ocean-1c38e8cb70f7dcd3e05c7bb56fe8a52d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/ocean_thumb-45f3479dd0c1674802a11633e53736d1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plan-ed23041c720e41ef1051f7931a0d0e92.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/popular_plan-0eaa61307ceb30cecc269045ffd283b9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/process-a795411ac19a5610559a4612ab7eec28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rails-231a680f23887d9dd70710ea5efd3c62.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/recent_photos-c97677caf985ec281f0c1ce41f8c7db6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/recent_post1-d6d1c2e27c6815c5163a3b3e25f4969c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/recent_post2-d300f87376fb3ec28aa74feff5ac6e0e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/right-2bbc683fef943c3155554aca6750ee36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/search-ca30e04cbaf9982b5c07e2b0a6d84b3d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/service3-94506e847a70d0f644672c40d187e262.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/service_ico1-446d15456c85e3634e65158b5ccff4ef.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/service_ico2-e23b9a64ab54264284e04c99f918485e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/service_ico3-e9d4750e96cf12d374583db3f42a4799.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/showcase1-08084d7c8df862a8f5b69cfd2db271f3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/signin_icos-2d7e8073dc15c74c6b0e676ccec72eab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/silver-f8f2e218e1531daae9e4c2ddd95a83b3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/silver_thumb-e7ff1da493e9c45c316e0dcb52e8aa16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/socialicons-5f8a8ef13e2365d3bae6399c668711af.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/socialicons2-60ddcc9894957f41aa9a3d1161ecb8b0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/socialicons_h-0ccedb0ec388131a55fad46bade3f35c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/titlebar-1e34bf452a00dd597502ff4c96aff31a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/twt-8ebcfd5156a6b9230ce3809767113357.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/user-display-c0149bd3ef7846faa273df73c9d3c682.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/water-2ff2e0534403d2a37a4c3c21ad1cd342.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/water_thumb-171fd6427ad46721bafd65e6e6d31917.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-287a13a73aa9566862668a9b4bb079c2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-e8d2c4c4ecd9cd611340021d35390b7e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/twitter/glyphicons-halflings-regular-99e6b76dd4a3c6b2697f593892c38b60.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/manifest-d3c92ed5e2770c5d9f8bed965a8008e3.json" />
+      <change type="DELETED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\stylesheets\animate.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\stylesheets\flexslider.css.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.rb" afterPath="$PROJECT_DIR$/config/application.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/index.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/index.css.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/manifest-d3c92ed5e2770c5d9f8bed965a8008e3.json" afterPath="$PROJECT_DIR$/public/assets/manifest-d3c92ed5e2770c5d9f8bed965a8008e3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/theme.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/z.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/z.css.scss" />
     </list>
     <ignored path="PluribusFund.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/database.yml" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1383767586490" ignored="false" />
     <file path="/routes.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384716293656" ignored="false" />
-    <file path="/Dummy.txt" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384718956389" ignored="false" />
+    <file path="/Dummy.txt" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384719296441" ignored="false" />
     <file path="/Gemfile" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384707415805" ignored="false" />
     <file path="/user.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384707571658" ignored="false" />
     <file path="/project.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1383779467621" ignored="false" />
@@ -170,6 +64,8 @@
     <file path="/url_helper.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384716698123" ignored="false" />
     <file path="$PROJECT_DIR$/../betastore/app/views/log_ins/index.html.erb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384717056820" ignored="false" />
     <file path="/raisefunds.html.erb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384718585717" ignored="false" />
+    <file path="/z.css.scss" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384721090773" ignored="false" />
+    <file path="/home.html.erb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384721418009" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,10 +85,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="32" selection-start="242" selection-end="242" vertical-scroll-proportion="-0.65384614">
+            <state line="36" column="70" selection-start="1739" selection-end="1739" vertical-scroll-proportion="0.73913044">
               <folding />
             </state>
           </provider>
@@ -207,73 +103,73 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="projects.css.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/projects.css.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="12" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/index.css.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="26" selection-start="1772" selection-end="1774" vertical-scroll-proportion="1.2">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme.css.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/theme.css.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_navbar.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_navbar.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="51" selection-start="271" selection-end="271" vertical-scroll-proportion="-3.2692308">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="z.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/z.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="393" column="21" selection-start="7258" selection-end="7258" vertical-scroll-proportion="-13.76">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application_helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+      <file leaf-file-name="_footer.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="30" column="35" selection-start="1341" selection-end="1341" vertical-scroll-proportion="-2.4230769">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="static_pages_helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/helpers/static_pages_helper.rb">
+      <file leaf-file-name="scaffolds.css.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="raisefunds.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/static_pages/raisefunds.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="45" selection-start="786" selection-end="786" vertical-scroll-proportion="-4.576923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="45" selection-start="606" selection-end="606" vertical-scroll-proportion="0.34160757">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_contact_form.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/static_pages/_contact_form.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/static_pages/contact.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/projects/_form.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="56" column="4" selection-start="795" selection-end="797" vertical-scroll-proportion="-19.4">
               <folding />
             </state>
           </provider>
@@ -297,22 +193,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/config/environments/development.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-        <option value="$PROJECT_DIR$/app/models/user.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/admin_controller.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20131106224905_create_users.rb" />
-        <option value="$PROJECT_DIR$/app/models/admin.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/admins_controller.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/about.html.erb" />
         <option value="C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.1/lib/action_view/helpers/url_helper.rb" />
-        <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/views/static_pages/raisefunds.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/index.css.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/flexslider.css.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/animate.css.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
+        <option value="$PROJECT_DIR$/config/application.rb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/theme.css.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/z.css.scss" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
       </list>
     </option>
   </component>
@@ -629,6 +525,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PluribusFund" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PluribusFund" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -982,7 +900,11 @@
       <created>1384718958082</created>
       <updated>1384718958082</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Twitter public assets">
+      <created>1384719298497</created>
+      <updated>1384719298498</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1015,7 +937,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286026" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28548896" sideWeight="0.6713974" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28548896" sideWeight="0.6713974" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -1071,7 +993,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Navigation bar working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Twitter public assets" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1093,107 +1015,15 @@
     <MESSAGE value="User signup and login works." />
     <MESSAGE value="Initial devise" />
     <MESSAGE value="Navigation bar working" />
+    <MESSAGE value="Twitter public assets" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/static_pages/about.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.0.1/lib/action_view/helpers/url_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="4" selection-start="5614" selection-end="5614" vertical-scroll-proportion="0.34309134">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_navbar.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="67" selection-start="1336" selection-end="1336" vertical-scroll-proportion="-18.307692">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/index.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/theme.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/users.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/z.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/static_pages_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static_pages/contact.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/projects/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/_contact_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="32" selection-start="242" selection-end="242" vertical-scroll-proportion="-0.65384614">
           <folding />
         </state>
       </provider>
@@ -1207,7 +1037,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="45" selection-start="606" selection-end="606" vertical-scroll-proportion="0.34160757">
+        <state line="17" column="45" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/users.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="60" selection-start="751" selection-end="751" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="37" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/projects.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="12" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/index.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="26" selection-start="1772" selection-end="1774" vertical-scroll-proportion="1.2">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="4" selection-start="795" selection-end="797" vertical-scroll-proportion="-19.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/theme.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/z.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="393" column="21" selection-start="7258" selection-end="7258" vertical-scroll-proportion="-13.76">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_navbar.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="51" selection-start="271" selection-end="271" vertical-scroll-proportion="-3.2692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="35" selection-start="1341" selection-end="1341" vertical-scroll-proportion="-2.4230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="70" selection-start="1739" selection-end="1739" vertical-scroll-proportion="0.73913044">
           <folding />
         </state>
       </provider>

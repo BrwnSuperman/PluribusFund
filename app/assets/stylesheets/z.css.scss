@@ -1,3 +1,5 @@
+@import "bootstrap";
+
 .btn-custom {
   background-color: hsl(184, 100%, 24%) !important;
   background-repeat: repeat-x;
@@ -114,8 +116,8 @@ li {
 
 #customtitlebar {
     background: url('/assets/titlebar.jpg') no-repeat;
-    font-size: 18px;
-    font-weight: 200;
+    font-size: 14px;
+    font-weight: 150;
     line-height: 30px;
     height: 380px;
     margin-top:-20px;
@@ -135,7 +137,7 @@ li {
 #customtitlebarcontent h1 {
     margin-bottom: 20px;
     font-size: 40px;
-    color: #C0CCCB;
+    color: #ffffff;
     line-height: 1;
 }
 
