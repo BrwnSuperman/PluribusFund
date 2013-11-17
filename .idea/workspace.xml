@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16606424-972d-4cbe-90c5-19cbb8df4d9f" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\stylesheets\animate.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tanveer\RubymineProjects\PluribusFund\app\assets\stylesheets\flexslider.css.scss" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.rb" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/index.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/index.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/manifest-d3c92ed5e2770c5d9f8bed965a8008e3.json" afterPath="$PROJECT_DIR$/public/assets/manifest-d3c92ed5e2770c5d9f8bed965a8008e3.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/theme.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/z.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/z.css.scss" />
     </list>
@@ -19,7 +9,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/database.yml" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1383767586490" ignored="false" />
     <file path="/routes.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384716293656" ignored="false" />
-    <file path="/Dummy.txt" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384719296441" ignored="false" />
+    <file path="/Dummy.txt" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384721567557" ignored="false" />
     <file path="/Gemfile" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384707415805" ignored="false" />
     <file path="/user.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384707571658" ignored="false" />
     <file path="/project.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1383779467621" ignored="false" />
@@ -64,8 +54,8 @@
     <file path="/url_helper.rb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384716698123" ignored="false" />
     <file path="$PROJECT_DIR$/../betastore/app/views/log_ins/index.html.erb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384717056820" ignored="false" />
     <file path="/raisefunds.html.erb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384718585717" ignored="false" />
-    <file path="/z.css.scss" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384721090773" ignored="false" />
-    <file path="/home.html.erb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384721418009" ignored="false" />
+    <file path="/z.css.scss" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384721937955" ignored="false" />
+    <file path="/home.html.erb" changelist="16606424-972d-4cbe-90c5-19cbb8df4d9f" time="1384721748171" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,10 +75,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="70" selection-start="1739" selection-end="1739" vertical-scroll-proportion="0.73913044">
+            <state line="2" column="107" selection-start="168" selection-end="168" vertical-scroll-proportion="-1.3076923">
               <folding />
             </state>
           </provider>
@@ -148,10 +138,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="z.css.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="z.css.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/z.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="393" column="21" selection-start="7258" selection-end="7258" vertical-scroll-proportion="-13.76">
+            <state line="124" column="19" selection-start="2480" selection-end="2480" vertical-scroll-proportion="0.49698433">
               <folding />
             </state>
           </provider>
@@ -206,9 +196,9 @@
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/theme.css.scss" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/z.css.scss" />
         <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/z.css.scss" />
       </list>
     </option>
   </component>
@@ -904,7 +894,11 @@
       <created>1384719298497</created>
       <updated>1384719298498</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="First attempt at fixing layout">
+      <created>1384721569458</created>
+      <updated>1384721569458</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -993,7 +987,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Twitter public assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="First attempt at fixing layout" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1016,6 +1010,7 @@
     <MESSAGE value="Initial devise" />
     <MESSAGE value="Navigation bar working" />
     <MESSAGE value="Twitter public assets" />
+    <MESSAGE value="First attempt at fixing layout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1098,13 +1093,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/z.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="393" column="21" selection-start="7258" selection-end="7258" vertical-scroll-proportion="-13.76">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1128,7 +1116,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="70" selection-start="1739" selection-end="1739" vertical-scroll-proportion="0.73913044">
+        <state line="2" column="107" selection-start="168" selection-end="168" vertical-scroll-proportion="-1.3076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/z.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="19" selection-start="2480" selection-end="2480" vertical-scroll-proportion="0.49698433">
           <folding />
         </state>
       </provider>
