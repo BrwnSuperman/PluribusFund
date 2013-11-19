@@ -20,8 +20,12 @@
                   <b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu">
+                  <li>Logged in as <strong><%= current_user.username %></strong>.</li>
+                  <li><% if current_user.admin? %>
+                          <p>You're an admin!</p>
+                        <% end %></li>
                   <li><%= link_to('Account Dashboard', dashboard_path, :method => :post) %></li>
-                  <li><%= link_to('Edit Account Details', edit_user_registration_path(@user), :method => :get) %></li>
+                  <li><%= link_to 'Edit profile', edit_user_registration_path %></li>
                   <li><%= link_to('Sign Out', destroy_user_session_path, :method => :delete) %></li>
                 </ul>
               </li>

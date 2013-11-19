@@ -6,12 +6,11 @@ class User < ActiveRecord::Base
   has_many :projects
   has_many :password_resets
 
-  validates_presence_of :name, :email
-
-  has_secure_password validations: false
+  validates :username,	presence: true, length: { maximum: 50 }, uniqueness: { case_sensitive: false }
+  validates :email,			presence: true, uniqueness: { case_sensitive: false }
 
   def sign_in
-    default_params.permit(:username, :email)
+    default_params.permit(:username)
   end
 
 end
