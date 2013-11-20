@@ -21,6 +21,7 @@ class UsersController < ApplicationController
   def devise_parameter_sanitizer
     if resource_class == User
       User::ParameterSanitizer.new(User, :user, params)
+      params.require(:user).permit(:email, :username)
     else
       super # Use the default one
     end

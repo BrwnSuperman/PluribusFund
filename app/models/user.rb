@@ -10,7 +10,7 @@ class User < ActiveRecord::Base
   validates :email,			presence: true, uniqueness: { case_sensitive: false }
 
   def sign_in
-    default_params.permit(:username)
+    default_params.permit(:username, :email)
   end
 
 end
