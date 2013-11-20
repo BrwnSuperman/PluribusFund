@@ -23,6 +23,7 @@
             <%= text_field_tag "name", @name, :placeholder => "Your name" %>
             <%= text_field_tag "email", @email, :placeholder => "Your email" %>
             <%= text_area_tag "message", @message, :placeholder => "Message", :rows => "3" %>
+            <textarea class="form-control" rows="3"></textarea>
             <div class="action">
               <%= submit_tag "Send" %>
             </div>
